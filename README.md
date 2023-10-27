@@ -13,6 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdsonYuri&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Snake animation](https://github.com/EdsonYuri/EdsonYuri/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/EdsonYuri/EdsonYuri/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
